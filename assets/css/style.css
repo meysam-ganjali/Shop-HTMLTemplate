@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'Sans';
+    src: url('../fonts/IRANSans-font/IRANSansWeb.ttf') format('truetype'),
+    url('../fonts/IRANSans-font/IRANSansWeb.woff') format('woff'),
+    url('../fonts/IRANSans-font/IRANSansWeb.woff2') format('woff2');
+   }
+   @font-face{
+    font-family: 'Sans-Bold';
+    src: url('../fonts/IRANSans-font/IRANSansWeb_Bold.ttf') format('truetype'),
+    url('../fonts/IRANSans-font/IRANSansWeb_Bold.woff') format('woff'),
+    url('../fonts/IRANSans-font/IRANSansWeb_Bold.woff2') format('woff2');
+   }
